@@ -1,16 +1,12 @@
-# event_registration_using_spreedsheet
+# Event Registration using Spreed Sheet
 
-A new Flutter project.
+A Flutter project in which i used Google Spreed Sheet to store the information provided by user in app.
 
-## Getting Started
+# Result :
+![event](https://user-images.githubusercontent.com/58309881/87877524-48486d80-c9f8-11ea-9a95-7aa80dc55b06.gif)
 
-This project is a starting point for a Flutter application.
+##  Pacakges Used
 
-A few resources to get you started if this is your first Flutter project:
+http: ^0.12.2
+rounded_loading_button: ^1.0.0
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
